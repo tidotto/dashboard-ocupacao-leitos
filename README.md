@@ -13,7 +13,3 @@ Meu objetivo aqui é mostrar **capricho visual + leitura de dados** (KPIs, gráf
 - `src/app/app.component.*` — layout e KPIs a partir do JSON
 - `src/assets/mock-data.json` — dados de exemplo
 - `tailwind.config.js` + `postcss.config.js` — Tailwind configurado
-
-> Projeto de portfólio, não depende de backend nem de execução local aqui no repositório.
-
-— Tiago Dotto
