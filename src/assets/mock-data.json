@@ -1,0 +1,15 @@
+{
+  "leitos": [
+    { "id": "A1-101", "ala": "Ala 1", "status": "OCUPADO" },
+    { "id": "A1-102", "ala": "Ala 1", "status": "LIVRE" },
+    { "id": "A1-103", "ala": "Ala 1", "status": "MANUTENCAO" },
+    { "id": "A2-201", "ala": "Ala 2", "status": "OCUPADO" },
+    { "id": "A2-202", "ala": "Ala 2", "status": "OCUPADO" },
+    { "id": "UTI-U01", "ala": "UTI", "status": "LIVRE" },
+    { "id": "UTI-U02", "ala": "UTI", "status": "OCUPADO" }
+  ],
+  "ocupacao": {
+    "labels": ["2025-09-01","09-02","09-03","09-04","09-05","09-06","09-07"],
+    "values": [55, 60, 62, 58, 64, 68, 66]
+  }
+}
